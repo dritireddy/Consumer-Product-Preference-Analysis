@@ -1,12 +1,12 @@
 # Consumer Product Preference Analysis
 
 ## Student Details
-**Name:** Mamidi Driti Reddy
-**Roll Number:** 1601-25-737-099
-**Section:** IT-2
-**Semester:** 3
-**Department:** Information Technology 
-**Year:** 2026-27
+**Name:** Mamidi Driti Reddy  
+**Roll Number:** 1601-25-737-099  
+**Section:** IT-2  
+**Semester:** 3  
+**Department:** Information Technology   
+**Year:** 2026-27  
 
 ## Course Details
 **Course:** Exploratory Data Analysis and Visualization (EDAV)  

@@ -54,7 +54,7 @@ The project includes:
 ## Conclusion
 This project demonstrates how Python-based data analysis can help identify sales patterns, compare product performance, and understand consumer purchasing behavior.
 
-## Student Details
+## Student Details:
 
 **Name:** Mamidi Driti Reddy
 

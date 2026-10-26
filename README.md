@@ -1,20 +1,5 @@
 # Consumer Product Preference Analysis
 
-## Student Details
-**Name:** Mamidi Driti Reddy  
-**Roll Number:** 1601-25-737-099  
-**Section:** IT-2  
-**Semester:** 3  
-**Department:** Information Technology   
-**Year:** 2026-27  
-
-## Course Details
-**Course:** Exploratory Data Analysis and Visualization (EDAV)  
-**Course Code:** 22ADC31N  
-**Department:** Information Technology  
-**Institution:** Chaitanya Bharathi Institute of Technology (CBIT)  
-**Academic Year:** 2026–27
-
 ## Project Overview
 This project analyzes supermarket sales data to understand consumer purchasing patterns, product preferences, and sales performance using Python data analysis and visualization libraries.
 
@@ -68,3 +53,17 @@ The project includes:
 
 ## Conclusion
 This project demonstrates how Python-based data analysis can help identify sales patterns, compare product performance, and understand consumer purchasing behavior.
+
+## Student Details
+
+**Name:** Mamidi Driti Reddy
+
+**Roll Number:** 1601-25-737-099
+
+**Section:** IT-2
+
+**Semester:** 3
+
+**Department:** Information Technology
+
+**Academic Year:** 2026–27
